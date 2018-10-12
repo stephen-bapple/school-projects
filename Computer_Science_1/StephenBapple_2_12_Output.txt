@@ -1,0 +1,16 @@
+Data      | In Words
+__________|______________________________________________________________
+     3.14 | Three and 14/100 dollars                                      
+    54.54 | Fifty-Four and 54/100 dollars                                 
+   100.00 | One Hundred 00/100 dollars                                    
+  1024.54 | One Thousand Twenty-Four and 54/100 dollars                   
+  2718.28 | Two Thousand Seven Hundred Eighteen and 28/100 dollars        
+ 10000.01 | *** Number out of range                                       
+   999.99 | Nine Hundred Ninety-Nine and 99/100 dollars                   
+  6543.21 | Six Thousand Five Hundred Fourty-Three and 21/100 dollars     
+    -3.14 | *** Number out of range                                       
+    20.00 | Twenty and 00/100 dollars                                     
+__________|______________________________________________________________
+There were 10 dollar values read, 
+8 values were in the range from 0.01 to 9999.99,
+and the largest valid dollar amount read was 6543.21

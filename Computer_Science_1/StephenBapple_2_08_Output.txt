@@ -1,0 +1,23 @@
+
+This program first reads a file with miles driven as entries and calculates the reimbursment for each entry.
+Then it outputs the mileage and reimbursment in a table. 
+And then lastly it outputs the number of entries read, how many entries had positive miles logged, 
+and the total and average of the mileage and reimbursment for the positive mileage entries.
+
+Miles Driven | Reimbursement Paid 
+_____________|___________________
+       250.6 |              45.11
+        99.4 |              17.89
+        -2.8 |              *****
+       999.4 |             126.93
+       799.4 |             124.91
+      1899.8 |             199.98
+         0.0 |              *****
+      1300.2 |             140.02
+      1101.7 |             139.20
+      3333.3 |             239.00
+_____________|___________________
+There were 10 entries read, and 8 entries had positive mileage values and were reimbursed.
+There was a total of 9783.8 miles driven and $1033.04 reimbursement paid.
+The average mileage for the positive entries was 1223.0 miles,
+and the average reimbursment for the positive entries was $129.13

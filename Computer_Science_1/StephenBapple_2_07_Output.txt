@@ -1,0 +1,23 @@
+Student Name      | Grade | Assessment   
+__________________|_______|______________
+Light Karen L     |   70  | SATISFACTORY.
+Fagan Bert Todd   |   99  | OUTSTANDING. 
+Antrim Forrest N  |   60  | FAILING.     
+Camden Warren     |   73  | SATISFACTORY.
+Mulicka Al B      |   80  | SATISFACTORY.
+Lee Phoebe        |   99  | OUTSTANDING. 
+Bright Harry      |   75  | SATISFACTORY.
+Garris Ted        |   92  | OUTSTANDING. 
+Benson Martyne    |   83  | SATISFACTORY.
+Lloyd Jeanine D   |   71  | SATISFACTORY.
+Leslie Bennie A   |   43  | FAILING.     
+Brandt Leslie     |   40  | FAILING.     
+Schulman David    |  100  | OUTSTANDING. 
+Worthington Dan   |   51  | FAILING.     
+Hall Gus W        |   60  | FAILING.     
+Prigeon Dale R    |   60  | FAILING.     
+Fitzgibbons Rusty |   96  | OUTSTANDING. 
+__________________|_______|______________
+There were 17 students in the class.
+6 students scored between 69 and 90,
+and the average grade for these 6 students was 75.3

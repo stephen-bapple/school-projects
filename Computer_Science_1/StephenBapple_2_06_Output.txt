@@ -1,0 +1,15 @@
+Miles Driven | Reimbursement Paid 
+_____________|___________________
+       250.6 |              45.11
+        99.4 |              17.89
+        -2.8 |              *****
+       999.4 |             126.93
+       799.4 |             124.91
+      1899.8 |             199.98
+         0.0 |              *****
+      1300.2 |             140.02
+      1101.7 |             139.20
+      3333.3 |             239.00
+_____________|___________________
+The total reimbursement to be paid is 1033.04
+which is the sum of the reimbursements of the 10 values processed, of which 8 were above zero.

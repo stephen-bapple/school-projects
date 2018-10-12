@@ -1,0 +1,17 @@
+The number is         3.99, running total is           3.99
+The number is         4.00, running total is           7.99
+The number is         9.00, running total is          16.99
+The number is         1.00, running total is          17.99
+The number is         3.00, running total is          20.99
+The number is         4.00, running total is          24.99
+The number is         5.00, running total is          29.99
+The number is         3.00, running total is          32.99
+The number is         2.00, running total is          34.99
+The number is         9.00, running total is          43.99
+The number is         7.00, running total is          50.99
+The number is         6.00, running total is          56.99
+The number is         7.00, running total is          63.99
+The number is         9.00, running total is          72.99
+There were 14 numbers read
+their sum is 72.99
+and their average is 5.21
