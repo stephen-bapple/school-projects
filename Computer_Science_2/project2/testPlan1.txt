@@ -1,0 +1,90 @@
+// Additional test cases for full rule 4
+Kissinger
+Hennimey
+Kestrel
+Bapple
+
+// Additional test cases for prefix handling
+// Expected codes: V542 and H425
+VanHelsing 
+
+// Expected codes: D215 and G150
+DiGiovanni
+
+// A good test case, as "eHou" is ignored, so removing the prefix only changes the first letter of the code.
+// Expected codes: D435 and H435
+DeHoulton
+
+// Expected codes: C545 and H450
+ConHoulian
+
+// Another good case as the following three letters are inverted in order.
+// Expected codes: L161 and B616
+LaBarbara
+
+// Regular cases from provided test plan:
+Greenawalt
+Gruenwald
+Smith
+Smythe
+Bower
+Lowe
+
+// Note: for this name with full rule 4 the code should be H552 not H526
+Heinninger
+
+Little
+
+// Note: additional codes are generated with prefix handling
+vanDeusen
+Desjardins
+
+Finklestein
+Soundex
+Stein
+Provenzano
+Gonzales
+Gonsales
+Ng
+Sakamoru
+
+// Note: for this name with full rule 4 the code should be W552 not W526
+Wanamaker
+
+Liao
+Alkowarizmi
+Zilberschlag
+Wolff
+Dijkstra
+Chevrolet
+Herschel
+Zhou
+Vemulakonda
+
+// Note: for this name with full rule 4 the code should be S331 not S312
+Studebaker
+
+Deutscher
+Yang
+Vilhjalmsson
+Vavra
+Zahradnik
+Einstein
+Waldo
+Adriaansen
+MacGregor
+Brandt
+Chu
+Llewellyn
+Rhydderch
+Heimirsson
+
+// Note: for this name with full rule 4 the code should be S120 not S212
+Schovajsa
+
+Strnad
+
+// Note: for this name with full rule 4 the code should be D552 not D520
+Dominguez
+
+Cavanagh

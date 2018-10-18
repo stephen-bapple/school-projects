@@ -1,0 +1,270 @@
+Fib of: 1
+Regular answer: 1
+Optimized answer: 1
+Loop answer: 1
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+
+Fib of: 2
+Regular answer: 1
+Optimized answer: 1
+Loop answer: 1
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+
+Fib of: 3
+Regular answer: 2
+Optimized answer: 2
+Loop answer: 2
+Regular calls: 3
+Optimized calls: 3
+Loop iterations: 1
+Optimized table accesses: 6
+
+Fib of: 4
+Regular answer: 3
+Optimized answer: 3
+Loop answer: 3
+Regular calls: 5
+Optimized calls: 5
+Loop iterations: 2
+Optimized table accesses: 10
+
+Fib of: 5
+Regular answer: 5
+Optimized answer: 5
+Loop answer: 5
+Regular calls: 9
+Optimized calls: 7
+Loop iterations: 3
+Optimized table accesses: 14
+
+Fib of: 6
+Regular answer: 8
+Optimized answer: 8
+Loop answer: 8
+Regular calls: 15
+Optimized calls: 9
+Loop iterations: 4
+Optimized table accesses: 18
+
+Fib of: 7
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 25
+Optimized calls: 11
+Loop iterations: 5
+Optimized table accesses: 22
+
+Fib of: 8
+Regular answer: 21
+Optimized answer: 21
+Loop answer: 21
+Regular calls: 41
+Optimized calls: 13
+Loop iterations: 6
+Optimized table accesses: 26
+
+Fib of: 9
+Regular answer: 34
+Optimized answer: 34
+Loop answer: 34
+Regular calls: 67
+Optimized calls: 15
+Loop iterations: 7
+Optimized table accesses: 30
+
+Fib of: 10
+Regular answer: 55
+Optimized answer: 55
+Loop answer: 55
+Regular calls: 109
+Optimized calls: 17
+Loop iterations: 8
+Optimized table accesses: 34
+
+Fib of: 11
+Regular answer: 89
+Optimized answer: 89
+Loop answer: 89
+Regular calls: 177
+Optimized calls: 19
+Loop iterations: 9
+Optimized table accesses: 38
+
+Fib of: 12
+Regular answer: 144
+Optimized answer: 144
+Loop answer: 144
+Regular calls: 287
+Optimized calls: 21
+Loop iterations: 10
+Optimized table accesses: 42
+
+Fib of: 13
+Regular answer: 233
+Optimized answer: 233
+Loop answer: 233
+Regular calls: 465
+Optimized calls: 23
+Loop iterations: 11
+Optimized table accesses: 46
+
+Fib of: 14
+Regular answer: 377
+Optimized answer: 377
+Loop answer: 377
+Regular calls: 753
+Optimized calls: 25
+Loop iterations: 12
+Optimized table accesses: 50
+
+Fib of: 15
+Regular answer: 610
+Optimized answer: 610
+Loop answer: 610
+Regular calls: 1219
+Optimized calls: 27
+Loop iterations: 13
+Optimized table accesses: 54
+
+Fib of: 16
+Regular answer: 987
+Optimized answer: 987
+Loop answer: 987
+Regular calls: 1973
+Optimized calls: 29
+Loop iterations: 14
+Optimized table accesses: 58
+
+Fib of: 17
+Regular answer: 1597
+Optimized answer: 1597
+Loop answer: 1597
+Regular calls: 3193
+Optimized calls: 31
+Loop iterations: 15
+Optimized table accesses: 62
+
+Fib of: 18
+Regular answer: 2584
+Optimized answer: 2584
+Loop answer: 2584
+Regular calls: 5167
+Optimized calls: 33
+Loop iterations: 16
+Optimized table accesses: 66
+
+Fib of: 19
+Regular answer: 4181
+Optimized answer: 4181
+Loop answer: 4181
+Regular calls: 8361
+Optimized calls: 35
+Loop iterations: 17
+Optimized table accesses: 70
+
+Fib of: 20
+Regular answer: 6765
+Optimized answer: 6765
+Loop answer: 6765
+Regular calls: 13529
+Optimized calls: 37
+Loop iterations: 18
+Optimized table accesses: 74
+
+Fib of: 21
+Regular answer: 10946
+Optimized answer: 10946
+Loop answer: 10946
+Regular calls: 21891
+Optimized calls: 39
+Loop iterations: 19
+Optimized table accesses: 78
+
+Fib of: 22
+Regular answer: 17711
+Optimized answer: 17711
+Loop answer: 17711
+Regular calls: 35421
+Optimized calls: 41
+Loop iterations: 20
+Optimized table accesses: 82
+
+Fib of: 23
+Regular answer: 28657
+Optimized answer: 28657
+Loop answer: 28657
+Regular calls: 57313
+Optimized calls: 43
+Loop iterations: 21
+Optimized table accesses: 86
+
+Fib of: 24
+Regular answer: 46368
+Optimized answer: 46368
+Loop answer: 46368
+Regular calls: 92735
+Optimized calls: 45
+Loop iterations: 22
+Optimized table accesses: 90
+
+Fib of: 25
+Regular answer: 75025
+Optimized answer: 75025
+Loop answer: 75025
+Regular calls: 150049
+Optimized calls: 47
+Loop iterations: 23
+Optimized table accesses: 94
+
+Fib of: 26
+Regular answer: 121393
+Optimized answer: 121393
+Loop answer: 121393
+Regular calls: 242785
+Optimized calls: 49
+Loop iterations: 24
+Optimized table accesses: 98
+
+Fib of: 27
+Regular answer: 196418
+Optimized answer: 196418
+Loop answer: 196418
+Regular calls: 392835
+Optimized calls: 51
+Loop iterations: 25
+Optimized table accesses: 102
+
+Fib of: 28
+Regular answer: 317811
+Optimized answer: 317811
+Loop answer: 317811
+Regular calls: 635621
+Optimized calls: 53
+Loop iterations: 26
+Optimized table accesses: 106
+
+Fib of: 29
+Regular answer: 514229
+Optimized answer: 514229
+Loop answer: 514229
+Regular calls: 1028457
+Optimized calls: 55
+Loop iterations: 27
+Optimized table accesses: 110
+
+Fib of: 30
+Regular answer: 832040
+Optimized answer: 832040
+Loop answer: 832040
+Regular calls: 1664079
+Optimized calls: 57
+Loop iterations: 28
+Optimized table accesses: 114
+

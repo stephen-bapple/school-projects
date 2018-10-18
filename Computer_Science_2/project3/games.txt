@@ -1,0 +1,100 @@
+Lottery program.
+Stephen BappleCS 2, Fall 2015
+
+User's numbers: 1 2 3 4 5 6
+
+Stats for game 1:
+Plays to win lotto: 6,532,604
+Match 3 numbers: 177,866
+Match 4 numbers: 11,689
+Match 5 numbers: 283
+Net winnings: -1,886,494
+
+User's numbers: 4 3 2 5 6 9
+
+Stats for game 2:
+Plays to win lotto: 5,474,641
+Match 3 numbers: 149,325
+Match 4 numbers: 9,899
+Match 5 numbers: 210
+Net winnings: -1,276,441
+
+User's numbers: 12 11 7 9 6 8
+
+Stats for game 3:
+Plays to win lotto: 1,827,803
+Match 3 numbers: 50,109
+Match 4 numbers: 3,340
+Match 5 numbers: 70
+Net winnings: 910,287
+
+User's numbers: 15 22 13 12 9 10
+
+Stats for game 4:
+Plays to win lotto: 2,347,484
+Match 3 numbers: 64,093
+Match 4 numbers: 4,294
+Match 5 numbers: 104
+Net winnings: 612,146
+
+User's numbers: 7 8 6 5 3 2
+
+Stats for game 5:
+Plays to win lotto: 11,965,651
+Match 3 numbers: 324,641
+Match 4 numbers: 21,686
+Match 5 numbers: 527
+Net winnings: -5,107,941
+
+User's numbers: 1 2 3 4 5 8
+
+Stats for game 6:
+Plays to win lotto: 21,481,991
+Match 3 numbers: 584,558
+Match 4 numbers: 38,716
+Match 5 numbers: 856
+Net winnings: -10,844,611
+
+User's numbers: 42 41 40 39 38 37
+
+Stats for game 7:
+Plays to win lotto: 510,366
+Match 3 numbers: 14,157
+Match 4 numbers: 911
+Match 5 numbers: 17
+Net winnings: 1,693,754
+
+User's numbers: 1 2 19 18 17 12
+
+Stats for game 8:
+Plays to win lotto: 17,491
+Match 3 numbers: 490
+Match 4 numbers: 20
+Match 5 numbers: 0
+Net winnings: 1,988,409
+
+User's numbers: 2 4 6 8 10 12
+
+Stats for game 9:
+Plays to win lotto: 14,969,961
+Match 3 numbers: 406,940
+Match 4 numbers: 26,948
+Match 5 numbers: 648
+Net winnings: -6,905,161
+
+User's numbers: 10 9 8 6 5 4
+
+Stats for game 10:
+Plays to win lotto: 6,519,883
+Match 3 numbers: 176,641
+Match 4 numbers: 11,746
+Match 5 numbers: 263
+Net winnings: -1,903,173
+
+Averages across the 10 games played:
+Average plays: 7164788
+Average match 3s: 194882
+Average match 4s: 12925
+Average match 5s: 298
+Average winnings: -2271922
+

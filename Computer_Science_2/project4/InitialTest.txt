@@ -1,0 +1,53 @@
+Programmer: Stephen Bapple. Author: Stephen Bapple
+Operands same length and value; no carry
+1111111
+1111111
+2222225
+Operands are different lengths
+124546782304321
+1235612
+124546783539933
+Problem results in one carry
+9231435
+1234451
+10465886
+Problem has a lot of carries
+1
+9999999999
+10000000000
+Addends are max ints
+2147483647
+2147483647
+4294967294
+Comma Test 1: add one comma
+999
+100
+1099
+Test 2: no commas in any number
+1
+99
+100
+Test 3: no commas in addends, 1 in result
+987
+55
+1042
+Test 4: 2 digits before first comma in result
+9999
+9999
+19998
+Test 5: 3 digits before first comma in result
+99999
+99999
+199998
+Test 6: bigger, more typical numbers
+214894566383
+99786457312334215
+99786672206900598
+Operands are max longs
+9223372036854775807
+9223372036854775807
+18446744073709551614
+Ridiculously big numbers.
+1111111111111111111111111111111111111111111111111111111
+9111111111111111111111111111111111111111111111111111111
+10222222222222222222222222222222222222222222222222222222

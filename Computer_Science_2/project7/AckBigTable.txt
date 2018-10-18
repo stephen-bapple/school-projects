@@ -1,0 +1,677 @@
+Ack of: 0, 0
+Regular answer: 1
+Optimized answer: 1
+Loop answer: 1
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 0
+
+Ack of: 0, 1
+Regular answer: 2
+Optimized answer: 2
+Loop answer: 2
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 1
+
+Ack of: 0, 2
+Regular answer: 3
+Optimized answer: 3
+Loop answer: 3
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 2
+
+Ack of: 0, 3
+Regular answer: 4
+Optimized answer: 4
+Loop answer: 4
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 3
+
+Ack of: 0, 4
+Regular answer: 5
+Optimized answer: 5
+Loop answer: 5
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 4
+
+Ack of: 0, 5
+Regular answer: 6
+Optimized answer: 6
+Loop answer: 6
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 5
+
+Ack of: 0, 6
+Regular answer: 7
+Optimized answer: 7
+Loop answer: 7
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 6
+
+Ack of: 0, 7
+Regular answer: 8
+Optimized answer: 8
+Loop answer: 8
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 7
+
+Ack of: 0, 8
+Regular answer: 9
+Optimized answer: 9
+Loop answer: 9
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 8
+
+Ack of: 0, 9
+Regular answer: 10
+Optimized answer: 10
+Loop answer: 10
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 9
+
+Ack of: 0, 10
+Regular answer: 11
+Optimized answer: 11
+Loop answer: 11
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 10
+
+Ack of: 0, 11
+Regular answer: 12
+Optimized answer: 12
+Loop answer: 12
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 11
+
+Ack of: 0, 12
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 12
+
+Ack of: 0, 13
+Regular answer: 14
+Optimized answer: 14
+Loop answer: 14
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 13
+
+Ack of: 0, 14
+Regular answer: 15
+Optimized answer: 15
+Loop answer: 15
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 14
+
+Ack of: 0, 15
+Regular answer: 16
+Optimized answer: 16
+Loop answer: 16
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table accesses: 2
+Out of bounds y values: 0
+Maximum y value: 15
+
+Ack of: 1, 0
+Regular answer: 2
+Optimized answer: 2
+Loop answer: 2
+Regular calls: 2
+Optimized calls: 2
+Loop iterations: 2
+Optimized table accesses: 4
+Out of bounds y values: 0
+Maximum y value: 1
+
+Ack of: 1, 1
+Regular answer: 3
+Optimized answer: 3
+Loop answer: 3
+Regular calls: 4
+Optimized calls: 4
+Loop iterations: 4
+Optimized table accesses: 8
+Out of bounds y values: 0
+Maximum y value: 2
+
+Ack of: 1, 2
+Regular answer: 4
+Optimized answer: 4
+Loop answer: 4
+Regular calls: 6
+Optimized calls: 6
+Loop iterations: 6
+Optimized table accesses: 12
+Out of bounds y values: 0
+Maximum y value: 3
+
+Ack of: 1, 3
+Regular answer: 5
+Optimized answer: 5
+Loop answer: 5
+Regular calls: 8
+Optimized calls: 8
+Loop iterations: 8
+Optimized table accesses: 16
+Out of bounds y values: 0
+Maximum y value: 4
+
+Ack of: 1, 4
+Regular answer: 6
+Optimized answer: 6
+Loop answer: 6
+Regular calls: 10
+Optimized calls: 10
+Loop iterations: 10
+Optimized table accesses: 20
+Out of bounds y values: 0
+Maximum y value: 5
+
+Ack of: 1, 5
+Regular answer: 7
+Optimized answer: 7
+Loop answer: 7
+Regular calls: 12
+Optimized calls: 12
+Loop iterations: 12
+Optimized table accesses: 24
+Out of bounds y values: 0
+Maximum y value: 6
+
+Ack of: 1, 6
+Regular answer: 8
+Optimized answer: 8
+Loop answer: 8
+Regular calls: 14
+Optimized calls: 14
+Loop iterations: 14
+Optimized table accesses: 28
+Out of bounds y values: 0
+Maximum y value: 7
+
+Ack of: 1, 7
+Regular answer: 9
+Optimized answer: 9
+Loop answer: 9
+Regular calls: 16
+Optimized calls: 16
+Loop iterations: 16
+Optimized table accesses: 32
+Out of bounds y values: 0
+Maximum y value: 8
+
+Ack of: 1, 8
+Regular answer: 10
+Optimized answer: 10
+Loop answer: 10
+Regular calls: 18
+Optimized calls: 18
+Loop iterations: 18
+Optimized table accesses: 36
+Out of bounds y values: 0
+Maximum y value: 9
+
+Ack of: 1, 9
+Regular answer: 11
+Optimized answer: 11
+Loop answer: 11
+Regular calls: 20
+Optimized calls: 20
+Loop iterations: 20
+Optimized table accesses: 40
+Out of bounds y values: 0
+Maximum y value: 10
+
+Ack of: 1, 10
+Regular answer: 12
+Optimized answer: 12
+Loop answer: 12
+Regular calls: 22
+Optimized calls: 22
+Loop iterations: 22
+Optimized table accesses: 44
+Out of bounds y values: 0
+Maximum y value: 11
+
+Ack of: 1, 11
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 24
+Optimized calls: 24
+Loop iterations: 24
+Optimized table accesses: 48
+Out of bounds y values: 0
+Maximum y value: 12
+
+Ack of: 1, 12
+Regular answer: 14
+Optimized answer: 14
+Loop answer: 14
+Regular calls: 26
+Optimized calls: 26
+Loop iterations: 26
+Optimized table accesses: 52
+Out of bounds y values: 0
+Maximum y value: 13
+
+Ack of: 1, 13
+Regular answer: 15
+Optimized answer: 15
+Loop answer: 15
+Regular calls: 28
+Optimized calls: 28
+Loop iterations: 28
+Optimized table accesses: 56
+Out of bounds y values: 0
+Maximum y value: 14
+
+Ack of: 1, 14
+Regular answer: 16
+Optimized answer: 16
+Loop answer: 16
+Regular calls: 30
+Optimized calls: 30
+Loop iterations: 30
+Optimized table accesses: 60
+Out of bounds y values: 0
+Maximum y value: 15
+
+Ack of: 1, 15
+Regular answer: 17
+Optimized answer: 17
+Loop answer: 17
+Regular calls: 32
+Optimized calls: 32
+Loop iterations: 32
+Optimized table accesses: 64
+Out of bounds y values: 0
+Maximum y value: 16
+
+Ack of: 2, 0
+Regular answer: 3
+Optimized answer: 3
+Loop answer: 3
+Regular calls: 5
+Optimized calls: 5
+Loop iterations: 5
+Optimized table accesses: 10
+Out of bounds y values: 0
+Maximum y value: 2
+
+Ack of: 2, 1
+Regular answer: 5
+Optimized answer: 5
+Loop answer: 5
+Regular calls: 14
+Optimized calls: 11
+Loop iterations: 14
+Optimized table accesses: 22
+Out of bounds y values: 0
+Maximum y value: 4
+
+Ack of: 2, 2
+Regular answer: 7
+Optimized answer: 7
+Loop answer: 7
+Regular calls: 27
+Optimized calls: 17
+Loop iterations: 27
+Optimized table accesses: 34
+Out of bounds y values: 0
+Maximum y value: 6
+
+Ack of: 2, 3
+Regular answer: 9
+Optimized answer: 9
+Loop answer: 9
+Regular calls: 44
+Optimized calls: 23
+Loop iterations: 44
+Optimized table accesses: 46
+Out of bounds y values: 0
+Maximum y value: 8
+
+Ack of: 2, 4
+Regular answer: 11
+Optimized answer: 11
+Loop answer: 11
+Regular calls: 65
+Optimized calls: 29
+Loop iterations: 65
+Optimized table accesses: 58
+Out of bounds y values: 0
+Maximum y value: 10
+
+Ack of: 2, 5
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 90
+Optimized calls: 35
+Loop iterations: 90
+Optimized table accesses: 70
+Out of bounds y values: 0
+Maximum y value: 12
+
+Ack of: 2, 6
+Regular answer: 15
+Optimized answer: 15
+Loop answer: 15
+Regular calls: 119
+Optimized calls: 41
+Loop iterations: 119
+Optimized table accesses: 82
+Out of bounds y values: 0
+Maximum y value: 14
+
+Ack of: 2, 7
+Regular answer: 17
+Optimized answer: 17
+Loop answer: 17
+Regular calls: 152
+Optimized calls: 47
+Loop iterations: 152
+Optimized table accesses: 94
+Out of bounds y values: 0
+Maximum y value: 16
+
+Ack of: 2, 8
+Regular answer: 19
+Optimized answer: 19
+Loop answer: 19
+Regular calls: 189
+Optimized calls: 53
+Loop iterations: 189
+Optimized table accesses: 106
+Out of bounds y values: 0
+Maximum y value: 18
+
+Ack of: 2, 9
+Regular answer: 21
+Optimized answer: 21
+Loop answer: 21
+Regular calls: 230
+Optimized calls: 59
+Loop iterations: 230
+Optimized table accesses: 118
+Out of bounds y values: 0
+Maximum y value: 20
+
+Ack of: 2, 10
+Regular answer: 23
+Optimized answer: 23
+Loop answer: 23
+Regular calls: 275
+Optimized calls: 65
+Loop iterations: 275
+Optimized table accesses: 130
+Out of bounds y values: 0
+Maximum y value: 22
+
+Ack of: 2, 11
+Regular answer: 25
+Optimized answer: 25
+Loop answer: 25
+Regular calls: 324
+Optimized calls: 71
+Loop iterations: 324
+Optimized table accesses: 142
+Out of bounds y values: 0
+Maximum y value: 24
+
+Ack of: 2, 12
+Regular answer: 27
+Optimized answer: 27
+Loop answer: 27
+Regular calls: 377
+Optimized calls: 77
+Loop iterations: 377
+Optimized table accesses: 154
+Out of bounds y values: 0
+Maximum y value: 26
+
+Ack of: 2, 13
+Regular answer: 29
+Optimized answer: 29
+Loop answer: 29
+Regular calls: 434
+Optimized calls: 83
+Loop iterations: 434
+Optimized table accesses: 166
+Out of bounds y values: 0
+Maximum y value: 28
+
+Ack of: 2, 14
+Regular answer: 31
+Optimized answer: 31
+Loop answer: 31
+Regular calls: 495
+Optimized calls: 89
+Loop iterations: 495
+Optimized table accesses: 178
+Out of bounds y values: 0
+Maximum y value: 30
+
+Ack of: 2, 15
+Regular answer: 33
+Optimized answer: 33
+Loop answer: 33
+Regular calls: 560
+Optimized calls: 95
+Loop iterations: 560
+Optimized table accesses: 190
+Out of bounds y values: 0
+Maximum y value: 32
+
+Ack of: 3, 0
+Regular answer: 5
+Optimized answer: 5
+Loop answer: 5
+Regular calls: 15
+Optimized calls: 12
+Loop iterations: 15
+Optimized table accesses: 24
+Out of bounds y values: 0
+Maximum y value: 4
+
+Ack of: 3, 1
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 106
+Optimized calls: 38
+Loop iterations: 106
+Optimized table accesses: 76
+Out of bounds y values: 0
+Maximum y value: 12
+
+Ack of: 3, 2
+Regular answer: 29
+Optimized answer: 29
+Loop answer: 29
+Regular calls: 541
+Optimized calls: 88
+Loop iterations: 541
+Optimized table accesses: 176
+Out of bounds y values: 0
+Maximum y value: 28
+
+Ack of: 3, 3
+Regular answer: 61
+Optimized answer: 61
+Loop answer: 61
+Regular calls: 2432
+Optimized calls: 186
+Loop iterations: 2432
+Optimized table accesses: 372
+Out of bounds y values: 0
+Maximum y value: 60
+
+Ack of: 3, 4
+Regular answer: 125
+Optimized answer: 125
+Loop answer: 125
+Regular calls: 10307
+Optimized calls: 380
+Loop iterations: 10307
+Optimized table accesses: 760
+Out of bounds y values: 0
+Maximum y value: 124
+
+Ack of: 3, 5
+Regular answer: 253
+Optimized answer: 253
+Loop answer: 253
+Regular calls: 42438
+Optimized calls: 766
+Loop iterations: 42438
+Optimized table accesses: 1532
+Out of bounds y values: 0
+Maximum y value: 252
+
+Ack of: 3, 6
+Regular answer: 509
+Optimized answer: 509
+Loop answer: 509
+Regular calls: 172233
+Optimized calls: 1536
+Loop iterations: 172233
+Optimized table accesses: 3072
+Out of bounds y values: 0
+Maximum y value: 508
+
+Ack of: 3, 7
+Regular answer: 1021
+Optimized answer: 1021
+Loop answer: 1021
+Regular calls: 693964
+Optimized calls: 3074
+Loop iterations: 693964
+Optimized table accesses: 6148
+Out of bounds y values: 0
+Maximum y value: 1020
+
+Ack of: 3, 8
+Regular answer: 2045
+Optimized answer: 2045
+Loop answer: 2045
+Regular calls: 2785999
+Optimized calls: 6148
+Loop iterations: 2785999
+Optimized table accesses: 12296
+Out of bounds y values: 0
+Maximum y value: 2044
+
+Ack of: 3, 9
+Regular answer: 4093
+Optimized answer: 4093
+Loop answer: 4093
+Regular calls: 11164370
+Optimized calls: 12294
+Loop iterations: 11164370
+Optimized table accesses: 24588
+Out of bounds y values: 0
+Maximum y value: 4092
+
+Ack of: 3, 10
+Regular answer: 8189
+Optimized answer: 8189
+Loop answer: 8189
+Regular calls: 44698325
+Optimized calls: 5099882
+Loop iterations: 44698325
+Optimized table accesses: 36418
+Out of bounds y values: 5081673
+Maximum y value: 8188
+
+Ack of: 3, 11
+Regular answer: 16381
+Optimized answer: 16381
+Loop answer: 16381
+Regular calls: 178875096
+Optimized calls: 64778604
+Loop iterations: 178875096
+Optimized table accesses: 46428
+Out of bounds y values: 64755390
+Maximum y value: 16380
+
+With 3 for x, 12 for y is too large to calculate, 
+calculation with higher y's impossible.
+
+Ack of: 4, 0
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 107
+Optimized calls: 39
+Loop iterations: 107
+Optimized table accesses: 78
+Out of bounds y values: 0
+Maximum y value: 12
+
+With 4 for x, 1 for y is too large to calculate, 
+calculation with higher y's impossible.
+

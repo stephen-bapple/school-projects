@@ -1,0 +1,21 @@
+Area: 120.71067811865476
+Perimeter: 40.0
+Test passed, objects have same dimensions
+Area: 463.72214106062415
+Perimeter: 78.4
+Test passed, objects have same dimensions
+Area: 185.60473867524354
+Perimeter: 49.6
+Test passed, objects have same dimensions
+Area: 89.27761753655705
+Perimeter: 34.4
+Test passed, objects have same dimensions
+Area: 426.63982074257336
+Perimeter: 75.2
+Test passed, objects have same dimensions
+Area: 482.939285845541
+Perimeter: 80.008
+Test passed, objects have same dimensions
+Area: 23659.292911256332
+Perimeter: 560.0
+Test passed, objects have same dimensions

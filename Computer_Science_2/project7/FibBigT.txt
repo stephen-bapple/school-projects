@@ -1,0 +1,419 @@
+Fib of: 1
+Regular answer: 1
+Optimized answer: 1
+Loop answer: 1
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table lookups: 2
+
+Fib of: 2
+Regular answer: 1
+Optimized answer: 1
+Loop answer: 1
+Regular calls: 1
+Optimized calls: 1
+Loop iterations: 1
+Optimized table lookups: 2
+
+Fib of: 3
+Regular answer: 2
+Optimized answer: 2
+Loop answer: 2
+Regular calls: 3
+Optimized calls: 3
+Loop iterations: 1
+Optimized table lookups: 6
+
+Fib of: 4
+Regular answer: 3
+Optimized answer: 3
+Loop answer: 3
+Regular calls: 5
+Optimized calls: 5
+Loop iterations: 2
+Optimized table lookups: 10
+
+Fib of: 5
+Regular answer: 5
+Optimized answer: 5
+Loop answer: 5
+Regular calls: 9
+Optimized calls: 7
+Loop iterations: 3
+Optimized table lookups: 14
+
+Fib of: 6
+Regular answer: 8
+Optimized answer: 8
+Loop answer: 8
+Regular calls: 15
+Optimized calls: 9
+Loop iterations: 4
+Optimized table lookups: 18
+
+Fib of: 7
+Regular answer: 13
+Optimized answer: 13
+Loop answer: 13
+Regular calls: 25
+Optimized calls: 11
+Loop iterations: 5
+Optimized table lookups: 22
+
+Fib of: 8
+Regular answer: 21
+Optimized answer: 21
+Loop answer: 21
+Regular calls: 41
+Optimized calls: 13
+Loop iterations: 6
+Optimized table lookups: 26
+
+Fib of: 9
+Regular answer: 34
+Optimized answer: 34
+Loop answer: 34
+Regular calls: 67
+Optimized calls: 15
+Loop iterations: 7
+Optimized table lookups: 30
+
+Fib of: 10
+Regular answer: 55
+Optimized answer: 55
+Loop answer: 55
+Regular calls: 109
+Optimized calls: 17
+Loop iterations: 8
+Optimized table lookups: 34
+
+Fib of: 11
+Regular answer: 89
+Optimized answer: 89
+Loop answer: 89
+Regular calls: 177
+Optimized calls: 19
+Loop iterations: 9
+Optimized table lookups: 38
+
+Fib of: 12
+Regular answer: 144
+Optimized answer: 144
+Loop answer: 144
+Regular calls: 287
+Optimized calls: 21
+Loop iterations: 10
+Optimized table lookups: 42
+
+Fib of: 13
+Regular answer: 233
+Optimized answer: 233
+Loop answer: 233
+Regular calls: 465
+Optimized calls: 23
+Loop iterations: 11
+Optimized table lookups: 46
+
+Fib of: 14
+Regular answer: 377
+Optimized answer: 377
+Loop answer: 377
+Regular calls: 753
+Optimized calls: 25
+Loop iterations: 12
+Optimized table lookups: 50
+
+Fib of: 15
+Regular answer: 610
+Optimized answer: 610
+Loop answer: 610
+Regular calls: 1219
+Optimized calls: 27
+Loop iterations: 13
+Optimized table lookups: 54
+
+Fib of: 16
+Regular answer: 987
+Optimized answer: 987
+Loop answer: 987
+Regular calls: 1973
+Optimized calls: 29
+Loop iterations: 14
+Optimized table lookups: 58
+
+Fib of: 17
+Regular answer: 1597
+Optimized answer: 1597
+Loop answer: 1597
+Regular calls: 3193
+Optimized calls: 31
+Loop iterations: 15
+Optimized table lookups: 62
+
+Fib of: 18
+Regular answer: 2584
+Optimized answer: 2584
+Loop answer: 2584
+Regular calls: 5167
+Optimized calls: 33
+Loop iterations: 16
+Optimized table lookups: 66
+
+Fib of: 19
+Regular answer: 4181
+Optimized answer: 4181
+Loop answer: 4181
+Regular calls: 8361
+Optimized calls: 35
+Loop iterations: 17
+Optimized table lookups: 70
+
+Fib of: 20
+Regular answer: 6765
+Optimized answer: 6765
+Loop answer: 6765
+Regular calls: 13529
+Optimized calls: 37
+Loop iterations: 18
+Optimized table lookups: 74
+
+Fib of: 21
+Regular answer: 10946
+Optimized answer: 10946
+Loop answer: 10946
+Regular calls: 21891
+Optimized calls: 39
+Loop iterations: 19
+Optimized table lookups: 78
+
+Fib of: 22
+Regular answer: 17711
+Optimized answer: 17711
+Loop answer: 17711
+Regular calls: 35421
+Optimized calls: 41
+Loop iterations: 20
+Optimized table lookups: 82
+
+Fib of: 23
+Regular answer: 28657
+Optimized answer: 28657
+Loop answer: 28657
+Regular calls: 57313
+Optimized calls: 43
+Loop iterations: 21
+Optimized table lookups: 86
+
+Fib of: 24
+Regular answer: 46368
+Optimized answer: 46368
+Loop answer: 46368
+Regular calls: 92735
+Optimized calls: 45
+Loop iterations: 22
+Optimized table lookups: 90
+
+Fib of: 25
+Regular answer: 75025
+Optimized answer: 75025
+Loop answer: 75025
+Regular calls: 150049
+Optimized calls: 47
+Loop iterations: 23
+Optimized table lookups: 94
+
+Fib of: 26
+Regular answer: 121393
+Optimized answer: 121393
+Loop answer: 121393
+Regular calls: 242785
+Optimized calls: 49
+Loop iterations: 24
+Optimized table lookups: 98
+
+Fib of: 27
+Regular answer: 196418
+Optimized answer: 196418
+Loop answer: 196418
+Regular calls: 392835
+Optimized calls: 51
+Loop iterations: 25
+Optimized table lookups: 102
+
+Fib of: 28
+Regular answer: 317811
+Optimized answer: 317811
+Loop answer: 317811
+Regular calls: 635621
+Optimized calls: 53
+Loop iterations: 26
+Optimized table lookups: 106
+
+Fib of: 29
+Regular answer: 514229
+Optimized answer: 514229
+Loop answer: 514229
+Regular calls: 1028457
+Optimized calls: 55
+Loop iterations: 27
+Optimized table lookups: 110
+
+Fib of: 30
+Regular answer: 832040
+Optimized answer: 832040
+Loop answer: 832040
+Regular calls: 1664079
+Optimized calls: 57
+Loop iterations: 28
+Optimized table lookups: 114
+
+Fib of: 31
+Regular answer: 1346269
+Optimized answer: 1346269
+Loop answer: 1346269
+Regular calls: 2692537
+Optimized calls: 59
+Loop iterations: 29
+Optimized table lookups: 118
+
+Fib of: 32
+Regular answer: 2178309
+Optimized answer: 2178309
+Loop answer: 2178309
+Regular calls: 4356617
+Optimized calls: 61
+Loop iterations: 30
+Optimized table lookups: 122
+
+Fib of: 33
+Regular answer: 3524578
+Optimized answer: 3524578
+Loop answer: 3524578
+Regular calls: 7049155
+Optimized calls: 63
+Loop iterations: 31
+Optimized table lookups: 126
+
+Fib of: 34
+Regular answer: 5702887
+Optimized answer: 5702887
+Loop answer: 5702887
+Regular calls: 11405773
+Optimized calls: 65
+Loop iterations: 32
+Optimized table lookups: 130
+
+Fib of: 35
+Regular answer: 9227465
+Optimized answer: 9227465
+Loop answer: 9227465
+Regular calls: 18454929
+Optimized calls: 67
+Loop iterations: 33
+Optimized table lookups: 134
+
+Fib of: 36
+Regular answer: 14930352
+Optimized answer: 14930352
+Loop answer: 14930352
+Regular calls: 29860703
+Optimized calls: 69
+Loop iterations: 34
+Optimized table lookups: 138
+
+Fib of: 37
+Regular answer: 24157817
+Optimized answer: 24157817
+Loop answer: 24157817
+Regular calls: 48315633
+Optimized calls: 71
+Loop iterations: 35
+Optimized table lookups: 142
+
+Fib of: 38
+Regular answer: 39088169
+Optimized answer: 39088169
+Loop answer: 39088169
+Regular calls: 78176337
+Optimized calls: 73
+Loop iterations: 36
+Optimized table lookups: 146
+
+Fib of: 39
+Regular answer: 63245986
+Optimized answer: 63245986
+Loop answer: 63245986
+Regular calls: 126491971
+Optimized calls: 75
+Loop iterations: 37
+Optimized table lookups: 150
+
+Fib of: 40
+Regular answer: 102334155
+Optimized answer: 102334155
+Loop answer: 102334155
+Regular calls: 204668309
+Optimized calls: 77
+Loop iterations: 38
+Optimized table lookups: 154
+
+Fib of: 41
+Regular answer: 165580141
+Optimized answer: 165580141
+Loop answer: 165580141
+Regular calls: 331160281
+Optimized calls: 79
+Loop iterations: 39
+Optimized table lookups: 158
+
+Fib of: 42
+Regular answer: 267914296
+Optimized answer: 267914296
+Loop answer: 267914296
+Regular calls: 535828591
+Optimized calls: 81
+Loop iterations: 40
+Optimized table lookups: 162
+
+Fib of: 43
+Regular answer: 433494437
+Optimized answer: 433494437
+Loop answer: 433494437
+Regular calls: 866988873
+Optimized calls: 83
+Loop iterations: 41
+Optimized table lookups: 166
+
+Fib of: 44
+Regular answer: 701408733
+Optimized answer: 701408733
+Loop answer: 701408733
+Regular calls: 1402817465
+Optimized calls: 85
+Loop iterations: 42
+Optimized table lookups: 170
+
+Fib of: 45
+Regular answer: 1134903170
+Optimized answer: 1134903170
+Loop answer: 1134903170
+Regular calls: -2025160957
+Optimized calls: 87
+Loop iterations: 43
+Optimized table lookups: 174
+
+Fib of: 46
+Regular answer: 1836311903
+Optimized answer: 1836311903
+Loop answer: 1836311903
+Regular calls: -622343491
+Optimized calls: 89
+Loop iterations: 44
+Optimized table lookups: 178
+
+Fib of: 47
+Regular answer: -1323752223
+Optimized answer: -1323752223
+Loop answer: -1323752223
+Regular calls: 16474628

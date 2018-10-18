@@ -1,0 +1,177 @@
+Name: Kissinger
+Soundex code: K252
+
+Name: Hennimey
+Soundex code: H550
+
+Name: Kestrel
+Soundex code: K236
+
+Name: Bapple
+Soundex code: B140
+
+Name: VanHelsing 
+Soundex code: V542
+Alt code: H425
+
+Name: DiGiovanni
+Soundex code: D215
+Alt code: G150
+
+Name: DeHoulton
+Soundex code: D435
+Alt code: H435
+
+Name: ConHoulian
+Soundex code: C545
+Alt code: H450
+
+Name: LaBarbara
+Soundex code: L161
+Alt code: B616
+
+Name: Greenawalt
+Soundex code: G654
+
+Name: Gruenwald
+Soundex code: G654
+
+Name: Smith
+Soundex code: S530
+
+Name: Smythe
+Soundex code: S530
+
+Name: Bower
+Soundex code: B600
+
+Name: Lowe
+Soundex code: L000
+
+Name: Heinninger
+Soundex code: H552
+
+Name: Little
+Soundex code: L340
+
+Name: vanDeusen
+Soundex code: V532
+Alt code: D250
+
+Name: Desjardins
+Soundex code: D263
+Alt code: S635
+
+Name: Finklestein
+Soundex code: F524
+
+Name: Soundex
+Soundex code: S532
+
+Name: Stein
+Soundex code: S350
+
+Name: Provenzano
+Soundex code: P615
+
+Name: Gonzales
+Soundex code: G524
+
+Name: Gonsales
+Soundex code: G524
+
+Name: Ng
+Soundex code: N200
+
+Name: Sakamoru
+Soundex code: S256
+
+Name: Wanamaker
+Soundex code: W552
+
+Name: Liao
+Soundex code: L000
+
+Name: Alkowarizmi
+Soundex code: A426
+
+Name: Zilberschlag
+Soundex code: Z416
+
+Name: Wolff
+Soundex code: W410
+
+Name: Dijkstra
+Soundex code: D236
+Alt code: J360
+
+Name: Chevrolet
+Soundex code: C164
+
+Name: Herschel
+Soundex code: H624
+
+Name: Zhou
+Soundex code: Z000
+
+Name: Vemulakonda
+Soundex code: V542
+
+Name: Studebaker
+Soundex code: S331
+
+Name: Deutscher
+Soundex code: D326
+Alt code: U326
+
+Name: Yang
+Soundex code: Y520
+
+Name: Vilhjalmsson
+Soundex code: V424
+
+Name: Vavra
+Soundex code: V160
+
+Name: Zahradnik
+Soundex code: Z635
+
+Name: Einstein
+Soundex code: E523
+
+Name: Waldo
+Soundex code: W430
+
+Name: Adriaansen
+Soundex code: A365
+
+Name: MacGregor
+Soundex code: M262
+
+Name: Brandt
+Soundex code: B653
+
+Name: Chu
+Soundex code: C000
+
+Name: Llewellyn
+Soundex code: L450
+
+Name: Rhydderch
+Soundex code: R362
+
+Name: Heimirsson
+Soundex code: H562
+
+Name: Schovajsa
+Soundex code: S120
+
+Name: Strnad
+Soundex code: S365
+
+Name: Dominguez
+Soundex code: D552
+
+Name: Cavanagh
+Soundex code: C152
+

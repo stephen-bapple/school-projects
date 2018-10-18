@@ -1,0 +1,53 @@
+Programmer: Stephen Bapple, Test plan author: J. Gurka
+minimum operands
+0
+0
+0
+minimum carry
+1
+9
+10
+minimum operand size, no carry
+2
+7
+9
+carry across all digits
+999999
+1
+1000000
+first operand zero, different lengths
+0
+12345
+12345
+second operand zero, different lengths
+6789
+0
+6789
+no commas, no carry, same lengths
+333
+444
+777
+no commas in operands, comma in answer, same lengths
+606
+404
+1010
+answer exactly maximum integer
+1073741824
+1073741823
+2147483647
+operands > maximum integer, no carry, same lengths
+11111111111111
+22222222222222
+33333333333333
+operands > maximum integer, some carries, different lengths
+123456123456123456
+5678567856785678
+129134691312909134
+both operands = maximum integer 
+2147483647
+2147483647
+4294967294
+maximum stack size, both operands and answer
+1222333444555666777888999
+3210003210003210003210000
+4432336654558876781098999

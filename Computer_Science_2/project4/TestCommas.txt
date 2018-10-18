@@ -1,0 +1,29 @@
+Programmer: Stephen Bapple. Author: Stephen Bapple
+Comma Test 1: add one comma
+999
+100
+1099
+Test 2: no commas in any number
+1
+99
+100
+Test 3: no commas in addends, 1 in result
+987
+55
+1042
+Test 4: 2 digits before first comma in result
+9999
+9999
+19998
+Test 5: 3 digits before first comma in result
+99999
+99999
+199998
+Test 6: bigger, more typical numbers
+214894566383
+99786457312334215
+99786672206900598
+Operands are max longs
+9223372036854775807
+9223372036854775807
+18446744073709551614

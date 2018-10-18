@@ -1,0 +1,10 @@
+// Has adjacent same consonants 'f' and 'f' - code: S315
+Steffan
+// Exactly one consonant - Expected code of: L000
+Lee
+// Two groups of adjacent consonants, will test the full rule 4 - code: R552
+Remmington
+// Removable 'h' in between adjacent consonats, only as expected with full tule 4 - code: A261
+Ashcroft
+// Prefix as well as double vowels and consonants - codes: D215 and G150 
+DiGiovanni

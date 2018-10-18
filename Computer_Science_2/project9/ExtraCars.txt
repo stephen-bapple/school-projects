@@ -1,0 +1,9 @@
+Cadillac, Eldorado, 1968, aqua, a-CAR
+Nissan, Altima, 1999, Navy, 1l1il1ll
+Toyota, Prius, 2008, teal, IHRT-ERT
+Ford, Escort, 1990, pink, very chp
+Chrysler, PT_Cruiser, 2002 Maroon, 591-gbh
+Chrysler, New_Yorker, 1989, Burgundy, 573-QZA
+Dodge, Viper, 2015, jade, 1456-iio
+Ford, Mustang, 1969, Teal, 112-XZC
+Chevy, Camaro, 1984, Lime, URLSNG

@@ -1,0 +1,21 @@
+Author of test plan: Michael Brown Programmer: Stephen Bapple
+A simple, introductory test
+123,456
+654,321
+777,777
+A test of what happens when a carry happens
+99,999
+11,111
+111,110
+Two very large numbers
+246,913,578
+123,456,789
+370,370,367
+Outside of the range of an integer
+3,000,000,000
+2,000,000,000
+5,000,000,000
+Very large addition problem for the grand finale
+9,817,231,235,543,981
+2,134,654,334,556
+9,819,365,889,878,537

@@ -1,0 +1,6 @@
+7 2  // Original class problem for comparison
+10 1 // Repeatedly removes the head
+10 5 // Same size, different skip, ends up skipping same elements many times
+1 99 // Should just return 0 regardless of the skip
+5 6  // Skip larger than list size 
+8 2  // Never removes the head, not default case like 1 99

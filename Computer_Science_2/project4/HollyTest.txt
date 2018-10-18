@@ -1,0 +1,21 @@
+Programmer: Stephen Bapple. Test Author: Holly Radcliffe
+Same length, no carry
+4123
+3256
+7379
+Same length, with carry
+56721
+23259
+79980
+Different length, no carry
+10234
+2564
+12798
+Different length, with carry
+126782
+361
+127143
+Different length, out of int bounds
+2147483647
+12
+2147483659
